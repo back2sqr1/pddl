@@ -29,3 +29,5 @@ not happening. Also assigns cost to each preference
 PDDL+ added two core concepts - Processes and Events
 Processes are something which always happens when preconditions are met.
 Event - instant version of a process (happens only one)
+
+Apptainer - is a way to use containers
